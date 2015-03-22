@@ -1,0 +1,68 @@
+1,subject,Person's ID
+2,activity,"One of the six activities being tested: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING. "
+3,mean_tBodyAcc-mean()-X,average of body acceleration accelerometer x-axial raw time-domain signal means
+4,mean_tBodyAcc-mean()-Y,average of body acceleration accelerometer y-axial raw time-domain signal means
+5,mean_tBodyAcc-mean()-Z,average of body acceleration accelerometer z-axial raw time-domain signal means
+6,mean_tBodyAcc-std()-X,average of body acceleration accelerometer x-axial raw time-domain signal standard deviations
+7,mean_tBodyAcc-std()-Y,average of body acceleration accelerometer y-axial raw time-domain signal standard deviations
+8,mean_tBodyAcc-std()-Z,average of body acceleration accelerometer z-axial raw time-domain signal standard deviations
+9,mean_tGravityAcc-mean()-X,average of gravity acceleration accelerometer x-axial raw time-domain signal means
+10,mean_tGravityAcc-mean()-Y,average of gravity acceleration accelerometer y-axial raw time-domain signal means
+11,mean_tGravityAcc-mean()-Z,average of gravity acceleration accelerometer z-axial raw time-domain signal means
+12,mean_tGravityAcc-std()-X,average of gravity acceleration accelerometer x-axial raw time-domain signal standard deviations
+13,mean_tGravityAcc-std()-Y,average of gravity acceleration accelerometer y-axial raw time-domain signal standard deviations
+14,mean_tGravityAcc-std()-Z,average of gravity acceleration accelerometer z-axial raw time-domain signal standard deviations
+15,mean_tBodyAccJerk-mean()-X,average of body linear acceleration accelerometer x-axial jerk time-domain signal means
+16,mean_tBodyAccJerk-mean()-Y,average of body linear acceleration accelerometer y-axial jerk time-domain signal means
+17,mean_tBodyAccJerk-mean()-Z,average of body linear acceleration accelerometer z-axial jerk time-domain signal means
+18,mean_tBodyAccJerk-std()-X,average of body linear acceleration accelerometer x-axial jerk time-domain signal standard deviations
+19,mean_tBodyAccJerk-std()-Y,average of body linear acceleration accelerometer y-axial jerk time-domain signal standard deviations
+20,mean_tBodyAccJerk-std()-Z,average of body linear acceleration accelerometer z-axial jerk time-domain signal standard deviations
+21,mean_tBodyGyro-mean()-X,average of body acceleration gyroscope x-axial raw time-domain signal means
+22,mean_tBodyGyro-mean()-Y,average of body acceleration gyroscope y-axial raw time-domain signal means
+23,mean_tBodyGyro-mean()-Z,average of body acceleration gyroscope z-axial raw time-domain signal means
+24,mean_tBodyGyro-std()-X,average of body acceleration gyroscope x-axial raw time-domain signal standard deviations
+25,mean_tBodyGyro-std()-Y,average of body acceleration gyroscope y-axial raw time-domain signal standard deviations
+26,mean_tBodyGyro-std()-Z,average of body acceleration gyroscope z-axial raw time-domain signal standard deviations
+27,mean_tBodyGyroJerk-mean()-X,average of body acceleration gyroscope x-axial jerk time-domain signal means
+28,mean_tBodyGyroJerk-mean()-Y,average of body acceleration gyroscope y-axial jerk time-domain signal means
+29,mean_tBodyGyroJerk-mean()-Z,average of body acceleration gyroscope z-axial jerk time-domain signal means
+30,mean_tBodyGyroJerk-std()-X,average of body acceleration gyroscope x-axial jerk time-domain signal standard deviations
+31,mean_tBodyGyroJerk-std()-Y,average of body acceleration gyroscope y-axial jerk time-domain signal standard deviations
+32,mean_tBodyGyroJerk-std()-Z,average of body acceleration gyroscope z-axial jerk time-domain signal standard deviations
+33,mean_tBodyAccMag-mean(),average of body linear acceleration accelerometer raw time-domain signal means (using Euclidean norm)
+34,mean_tBodyAccMag-std(),average of body linear acceleration accelerometerraw time-domain signal standard deviations (using Euclidean norm)
+35,mean_tGravityAccMag-mean(),average of gravity acceleration accelerometer raw time-domain signal means (using Euclidean norm)
+36,mean_tGravityAccMag-std(),average of gravity acceleration accelerometer raw time-domain signal standard deviations (using Euclidean norm)
+37,mean_tBodyAccJerkMag-mean(),average of body linear acceleration accelerometer jerk time-domain signal means (using Euclidean norm)
+38,mean_tBodyAccJerkMag-std(),average of body linear acceleration accelerometer jerk time-domain signal standard deviations (using Euclidean norm)
+39,mean_tBodyGyroMag-mean(),average of body acceleration gyroscope raw time-domain signal means (using Euclidean norm)
+40,mean_tBodyGyroMag-std(),average of body acceleration gyroscoperaw time-domain signal standard deviations (using Euclidean norm)
+41,mean_tBodyGyroJerkMag-mean(),average of body acceleration gyroscope jerk time-domain signal means (using Euclidean norm)
+42,mean_tBodyGyroJerkMag-std(),average of body acceleration gyroscope jerk time-domain signal standard deviations (using Euclidean norm)
+43,mean_fBodyAcc-mean()-X,average of body acceleration accelerometer x-axial raw frequency-domain signal means
+44,mean_fBodyAcc-mean()-Y,average of body acceleration accelerometer y-axial raw frequency-domain signal means
+45,mean_fBodyAcc-mean()-Z,average of body acceleration accelerometer z-axial raw frequency-domain signal means
+46,mean_fBodyAcc-std()-X,average of body acceleration accelerometer x-axial raw frequency-domain signal standard deviations
+47,mean_fBodyAcc-std()-Y,average of body acceleration accelerometer y-axial raw frequency-domain signal standard deviations
+48,mean_fBodyAcc-std()-Z,average of body acceleration accelerometer z-axial raw frequency-domain signal standard deviations
+49,mean_fBodyAccJerk-mean()-X,average of body linear acceleration accelerometer x-axial jerk frequency-domain signal means
+50,mean_fBodyAccJerk-mean()-Y,average of body linear acceleration accelerometer y-axial jerk frequency-domain signal means
+51,mean_fBodyAccJerk-mean()-Z,average of body linear acceleration accelerometer z-axial jerk frequency-domain signal means
+52,mean_fBodyAccJerk-std()-X,average of body linear acceleration accelerometer x-axial jerk frequency-domain signal standard deviations
+53,mean_fBodyAccJerk-std()-Y,average of body linear acceleration accelerometer y-axial jerk frequency-domain signal standard deviations
+54,mean_fBodyAccJerk-std()-Z,average of body linear acceleration accelerometer z-axial jerk frequency-domain signal standard deviations
+55,mean_fBodyGyro-mean()-X,average of body acceleration gyroscope x-axial raw frequency-domain signal means
+56,mean_fBodyGyro-mean()-Y,average of body acceleration gyroscope y-axial raw frequency-domain signal means
+57,mean_fBodyGyro-mean()-Z,average of body acceleration gyroscope z-axial raw frequency-domain signal means
+58,mean_fBodyGyro-std()-X,average of body acceleration gyroscope x-axial raw frequency-domain signal standard deviations
+59,mean_fBodyGyro-std()-Y,average of body acceleration gyroscope y-axial raw frequency-domain signal standard deviations
+60,mean_fBodyGyro-std()-Z,average of body acceleration gyroscope z-axial raw frequency-domain signal standard deviations
+61,mean_fBodyAccMag-mean(),average of body linear acceleration accelerometer raw frequency-domain signal means (using Euclidean norm)
+62,mean_fBodyAccMag-std(),average of body linear acceleration accelerometerraw frequency-domain signal standard deviations (using Euclidean norm)
+63,mean_fBodyBodyAccJerkMag-mean(),average of body linear acceleration accelerometer jerk frequency-domain signal means (using Euclidean norm)
+64,mean_fBodyBodyAccJerkMag-std(),average of body linear acceleration accelerometer jerk frequency-domain signal standard deviations (using Euclidean norm)
+65,mean_fBodyBodyGyroMag-mean(),average of body acceleration gyroscope raw frequency-domain signal means (using Euclidean norm)
+66,mean_fBodyBodyGyroMag-std(),average of body acceleration gyroscoperaw frequency-domain signal standard deviations (using Euclidean norm)
+67,mean_fBodyBodyGyroJerkMag-mean(),average of body acceleration gyroscope jerk frequency-domain signal means (using Euclidean norm)
+68,mean_fBodyBodyGyroJerkMag-std(),average of body acceleration gyroscope jerk frequency-domain signal standard deviations (using Euclidean norm)
